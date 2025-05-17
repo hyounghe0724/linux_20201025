@@ -1,0 +1,5 @@
+1. login system remain as weak system so, need a double authentication system
+2. it is likely to easily access to database password
+3. the username being easily assumed is represented 
+4. use old date plugin 'Akismet Anti-spam: Spam Protection'
+5. current site is not serviced with https protocol
