@@ -1,0 +1,19 @@
+# ************************************
+# 1) 시스템·사용자 캐시 디렉터리 무시
+.cache/
+.local/share/Trash/
+.cache/tracker3/
+
+# 2) 로그 파일 무시 (예시)
+*.log
+*.tmp
+tmp/
+
+# 3) 에디터 설정/OS 임시파일 무시 (원한다면)
+*.swp
+.DS_Store
+Thumbs.db
+
+# 4) 그 외 업로드할 필요 없는 대용량 파일/폴더 예시
+downloads/
+videos/

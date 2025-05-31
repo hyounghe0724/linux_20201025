@@ -1,0 +1,12 @@
+total 8
+drwxr-xr-x  2 root   root   4096 Mar 21 02:16 .
+drwxr-x--- 20 GUEST  GUEST  4096 Apr 24 15:32 ..
+-rwxrwxrwx  2 guest3 guest3    0 Apr 24 22:32 hnner3.txt
+lrwxrwxrwx  1 root   root     11 Mar 21 02:14 lnner3.txt -> newfil1.txt
+-rwxrwxrwx  2 guest3 guest3    0 Apr 24 22:32 newfile1.txt
+total 16
+drwxr-xr-x  2 root   root   4096 Mar 21 02:16 .
+drwxr-x--- 20 GUEST  GUEST  4096 Apr 24 15:32 ..
+-rwxrwxrwx  2 guest3 guest3  293 Apr 24 22:32 hnner3.txt
+lrwxrwxrwx  1 root   root     11 Mar 21 02:14 lnner3.txt -> newfil1.txt
+-rwxrwxrwx  2 guest3 guest3  293 Apr 24 22:32 newfile1.txt
