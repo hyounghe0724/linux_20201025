@@ -1,4 +1,4 @@
-# linux_20201025
+![image](https://github.com/user-attachments/assets/78a366f9-d4c1-4dee-8d73-edf186affea2)# linux_20201025
 리눅스 로그 저장소
 
 1. WEEK 7 : GIT SETUP AND UPLOAD TEST END!
@@ -38,4 +38,13 @@
 	6ce35667     Detect access to OS file  Attempt to access os file critical
 	e9ac2434    Detect inserting php code PHP injection Attack ..   critical
 	
-	
+4. WEEK 13: testing network traffic, analyze effecting on cpu and memory
+![스크린샷 2025-05-31 100258](https://github.com/user-attachments/assets/cf92574c-71f6-4b56-8bcb-fb71cae3e3a3)
+this picture depict network traffic when URL is requesting 1mb.
+1. %soft was soared in interval
+2. usage of cpus accounf for between 20 and 30
+![image](https://github.com/user-attachments/assets/aedc2dd6-9d3f-4fd4-a490-f31770c06787)
+this picture illustrate network traffic when URL is requesting 10mb.
+1. %soft was soard in interval
+2. usage of cpu 0 acount for around 77%
+3. stopping readind, writing with network in my computer depite no ubuntu
