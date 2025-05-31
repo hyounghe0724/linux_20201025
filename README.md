@@ -41,10 +41,10 @@
 4. WEEK 13: testing network traffic, analyze effecting on cpu and memory
 ![스크린샷 2025-05-31 100258](https://github.com/user-attachments/assets/cf92574c-71f6-4b56-8bcb-fb71cae3e3a3)
 this picture depict network traffic when URL is requesting 1mb.
-1. %soft was soared in interval
-2. usage of cpus accounf for between 20 and 30
+ 1. %soft was soared in interval
+ 2. usage of cpus accounf for between 20 and 30
 ![image](https://github.com/user-attachments/assets/aedc2dd6-9d3f-4fd4-a490-f31770c06787)
 this picture illustrate network traffic when URL is requesting 10mb.
-1. %soft was soard in interval
-2. usage of cpu 0 acount for around 77%
-3. stopping readind, writing with network in my computer depite no ubuntu
+ 1. %soft was soard in interval
+ 2. usage of cpu 0 acount for around 87% in the seconds time
+ 3. stopping readind, writing with network in my computer depite no ubuntu
