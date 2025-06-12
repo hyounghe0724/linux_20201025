@@ -5,7 +5,7 @@
 ### 2. WEEK 9 : Setting Raid with two disks of 1GB
    ![image](https://github.com/user-attachments/assets/44e0e029-5552-4352-affe-31afa292d12f)
 
-### 4. WEEK 11 : Screenshot UPLOAD END in folder of github project
+### 4. WEEK 11 : Screenshot UPLOAD END in folder of github repo
 ### 5. WEEK 12 : top to 5 of weakness
 
 	3-1. - Content Security Policy (CSP), Header Not Set(171)
