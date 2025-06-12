@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/78a366f9-d4c1-4dee-8d73-edf186affea2)# linux_20201025
+# linux_20201025
 리눅스 로그 저장소
 
 ###1. WEEK 7 : GIT SETUP AND UPLOAD TEST END!
