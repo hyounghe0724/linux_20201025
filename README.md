@@ -44,7 +44,7 @@ this picture depict network traffic when URL is requesting 1mb.
  1. %soft was soared in interval
  2. usage of cpus accounf for between 20 and 30
 ![image](https://github.com/user-attachments/assets/aedc2dd6-9d3f-4fd4-a490-f31770c06787)
-this picture illustrate network traffic when URL is requesting 10mb.
- 1. %soft was soard in interval
- 2. usage of cpu 0 acount for around 87% in the seconds time
- 3. stopping readind, writing with network in my computer depite no ubuntu
+this picture illustrates network traffic when URL is requesting 10mb.
+ 1. %soft was soared in interval
+ 2. usage of cpu 0 acounts for around 87% in the seconds time
+ 3. stopping reading, writing with network in my computer depite no ubuntu
