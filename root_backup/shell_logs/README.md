@@ -1,0 +1,4 @@
+# linux_20201025
+리눅스 로그 저장소
+
+1. WEEK 7 : GIT SETUP AND UPLOAD TEST END!
